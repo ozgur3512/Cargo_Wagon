@@ -38,7 +38,3 @@ class Train{
 };
 
 #endif
-/* @Author 
-Student Name: Özgür Seferoðlu
-Student ID : 150190068
-Date: 9.11.2021 */
